@@ -1,6 +1,6 @@
 # zimmermann_nhp_json_sanitize.py
 # intended use is to sanitize dcm2niix-generated JSONs of 10.5T macaque data to be usable with DCAN nhp-abcd-bids-pipeline
-# usage: python3 zimmermann_nhp_json_sanitize.py <input> <output>
+# usage: python3 json_sanitize_escape_fix.py <input> <output>
 
 
 import json
